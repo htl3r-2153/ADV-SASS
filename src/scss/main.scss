@@ -1,0 +1,7 @@
+@import "node_modules/boostrap/scss/boostrap";
+@import "custom/variables";
+
+body {
+  background: $primary-color;
+  color: white;
+}
