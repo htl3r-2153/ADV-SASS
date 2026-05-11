@@ -1,7 +1,2 @@
-@import "../../node_modules/bootstrap/scss/bootstrap.scss";
 @import "custom/variables";
-
-body {
-  background: $primary-color;
-  color: white;
-}
+@import "../../node_modules/bootstrap/scss/bootstrap";
